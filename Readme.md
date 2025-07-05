@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Dutt Dixit</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **Http Server Along with LLM for network analysis**
+- 🔭 I’m currently working on **Http Server using GO along with LLM for network analysis**
 
 - 🌱 I’m currently learning **LLMs and Java**
 
