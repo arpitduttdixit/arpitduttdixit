@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Arpit Dutt Dixit</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Arpit</h1>
+<h3 align="center">A passionate Engineer</h3>
 
 - 🔭 I’m currently working on **Http Server using GO along with LLM for network analysis**
 
 - 🌱 I’m currently learning **LLMs and Java**
 
-- 💬 Ask me about **react javascript, nlp**
+- 💬 Ask me about **ANYTHING**
 
 - 📫 How to reach me **arpitduttdixit@gmail.com**
 
