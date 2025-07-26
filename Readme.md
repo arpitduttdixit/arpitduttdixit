@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Http Server using GO along with LLM for network analysis**
 
-- 🌱 I’m currently learning **LLMs and Java**
+- 🌱 I’m currently learning **LLMs and GO**
 
 - 💬 Ask me about **ANYTHING**
 
