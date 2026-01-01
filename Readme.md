@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rust servers, LLMs ..**
 
-- 🌱 I’m currently learning **LLMs and GO**
+- 🌱 I’m currently learning **LLMs**
 
 - 💬 Ask me about **ANYTHING**
 
