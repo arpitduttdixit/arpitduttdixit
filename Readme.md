@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Arpit</h1>
 <h3 align="center">An Engineer</h3>
 
-- 🔭 I’m currently working on **Rust servers, LLMs ..**
+-  I’m currently working on **Rust servers, LLMs ..**
 
-- 🌱 I’m currently learning **LLMs**
+-  I’m currently learning **LLMs**
 
-- 💬 Ask me about **ANYTHING**
+-  Ask me about **ANYTHING**
 
-- 📫 How to reach me **arpitduttdixit@gmail.com**
+-  How to reach me **arpitduttdixit@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
