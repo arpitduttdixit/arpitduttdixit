@@ -3,7 +3,7 @@
 
 -  I’m currently working on **Rust servers, LLMs ..**
 
--  I’m currently learning **LLMs**
+-  I’m currently learning **kuda**
 
 -  Ask me about **ANYTHING**
 
