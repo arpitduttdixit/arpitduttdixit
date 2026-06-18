@@ -1,13 +1,9 @@
-<h1 align="center">Hi 👋, I'm Arpit</h1>
+<h1 align="center">Arpit</h1>
 <h3 align="center">An Engineer</h3>
 
--  I’m currently working with **go, LLMs ..**
+**go, LLMs, cuda**
 
--  I’m currently learning **kkuda**
-
--  Ask me about **ANYTHING**
-
--  How to reach me **arpitduttdixit@gmail.com**
+ **arpitduttdixit@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
