@@ -1,7 +1,7 @@
 <h1 align="center">Arpit</h1>
 <h3 align="center">An Engineer</h3>
 
-**go, LLMs, cuda**
+**go, LLMs**
 
  **arpitduttdixit@gmail.com**
 
